@@ -52,9 +52,7 @@ public interface Calculator {
 
 
 package com.example.springapp;
-public interface Calculator {
-
-
+public inte
 //Write Your Code Hered
 }
 
